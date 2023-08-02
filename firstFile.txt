@@ -2,8 +2,8 @@ git_1: Add and commit firstFile.txt file with 10 lines.
 git_1: Add and commit secondFile.txt file with 10 lines.
 merge branch git_1 to git_2
 git_2: Update and commit any two lines in secondFile.txt.
-git_1: Update and commit the same 2 lines with the different info in secondFile.txt TEST
-merge branch git_2 to git_1, resolve conflict. Left all (4) modified lines. Commit. TEST
+git_1: Update and commit the same 2 lines with the different info in secondFile.txt
+merge branch git_2 to git_1, resolve conflict. Left all (4) modified lines. Commit.
 git_1: Update and commit firstFile.txt file, modify two lines. add test
 git_1: Update and commit firstFile.txt file, modify another two lines. add test
 Transfer changes of commit from Step 7 only to git_2, using format patch. add test
