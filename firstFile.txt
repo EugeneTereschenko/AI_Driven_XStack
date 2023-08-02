@@ -8,3 +8,5 @@ git_1: Update and commit firstFile.txt file, modify two lines. add test
 git_1: Update and commit firstFile.txt file, modify another two lines. add test
 Transfer changes of commit from Step 7 only to git_2, using format patch. add test
 Transfer changes of commit from Step 8 only to git_2, using cherrypick command. add test
+TEST
+TEST
